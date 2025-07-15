@@ -1,0 +1,9 @@
+gradio
+python-dotenv
+sendgrid
+pydantic
+# agents likely requires:
+openai
+# any http library for WebSearchTool (commonly)
+httpx
+# asyncio is stdlib, no need
